@@ -386,6 +386,7 @@ Home Assistant is free and open source home automation software with a focus on 
 "settings_details.general.app_icon.enum.white" = "Blanc";
 "settings_details.general.app_icon.title" = "Icona de l'aplicació";
 "settings_details.general.device_name.title" = "Nom del dispositiu";
+"settings_details.general.full_screen.title" = "Full Screen";
 "settings_details.general.launch_on_login.title" = "Launch App on Login";
 "settings_details.general.menu_bar_text.title" = "Text de la barra de menús";
 "settings_details.general.open_in_browser.chrome" = "Google Chrome";

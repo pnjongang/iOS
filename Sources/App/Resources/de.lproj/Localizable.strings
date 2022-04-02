@@ -386,6 +386,7 @@ Home Assistant ist eine kostenlose und quelloffene Hausautomatisierungssoftware 
 "settings_details.general.app_icon.enum.white" = "Weiß";
 "settings_details.general.app_icon.title" = "App-Symbol";
 "settings_details.general.device_name.title" = "Gerätename";
+"settings_details.general.full_screen.title" = "Vollbild";
 "settings_details.general.launch_on_login.title" = "App bei Login starten";
 "settings_details.general.menu_bar_text.title" = "Menüleisten Text";
 "settings_details.general.open_in_browser.chrome" = "Google Chrome";

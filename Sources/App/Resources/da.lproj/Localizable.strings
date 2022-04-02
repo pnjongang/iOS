@@ -386,6 +386,7 @@ Home Assistant er gratis og open source hjemmeautomatiseringssoftware med fokus 
 "settings_details.general.app_icon.enum.white" = "Hvid";
 "settings_details.general.app_icon.title" = "App-ikon";
 "settings_details.general.device_name.title" = "Enhedsnavn";
+"settings_details.general.full_screen.title" = "Full Screen";
 "settings_details.general.launch_on_login.title" = "Start app ved login";
 "settings_details.general.menu_bar_text.title" = "Tekst i menulinjen";
 "settings_details.general.open_in_browser.chrome" = "Google Chrome";
